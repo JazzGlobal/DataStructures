@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D8A529BE-19D6-42E3-942B-05EC3E09CEBF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataStructures/Program.cs">
+    <Files>
+      <File FileName="DataStructures/Stack.cs" Line="36" Column="5" />
+      <File FileName="DataStructures/Program.cs" Line="9" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DataStructures PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

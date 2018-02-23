@@ -1,0 +1,5 @@
+/home/christopher/Projects/DataStructures/DataStructures/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/christopher/Projects/DataStructures/DataStructures/bin/Debug/DataStructures.pdb
+/home/christopher/Projects/DataStructures/DataStructures/bin/Debug/DataStructures.exe
+/home/christopher/Projects/DataStructures/DataStructures/obj/x86/Debug/DataStructures.exe
+/home/christopher/Projects/DataStructures/DataStructures/obj/x86/Debug/DataStructures.pdb
